@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Nuvem Plugins Woo Parcelas
- * Plugin URI: https://github.com/sitenuvemautomacao/plugins/nuvem-plugins-woo-parcelas
+ * Plugin URI: https://github.com/sitenuvemautomacao/nuvem-plugins-woo-parcelas
  * Description: Parcelamento dos produtos de acordo com os fatores que você escolher.
  * Author: Nuvem Automação
  * Author URI: https://nuvemautomacao.com
